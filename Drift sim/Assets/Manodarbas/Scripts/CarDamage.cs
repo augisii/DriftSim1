@@ -1,8 +1,4 @@
-///--------------------------------------------------------------------------------------------
-/// Simple Car Damage system By Ciorbyn Studio https://www.youtube.com/c/CiorbynStudio
-/// Tutorial link: https://youtu.be/l04cw7EChpI
-/// -------------------------------------------------------------------------------------------
-/// 
+
 using UnityEngine;
 
 public class CarDamage : MonoBehaviour 
