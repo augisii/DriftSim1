@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WheelController : MonoBehaviour {
+public class WheelController : MonoBehaviour
+{
 
     public WheelAlignment[] steerableWheels;
 
@@ -23,10 +24,10 @@ public class WheelController : MonoBehaviour {
     public Rigidbody RB;
 
     // Update is called once per frame
-    void Update ()
+    void Update()
     {
-        wheelControl();      
-	}
+        wheelControl();
+    }
 
 
     //Applies steering and motor torque
