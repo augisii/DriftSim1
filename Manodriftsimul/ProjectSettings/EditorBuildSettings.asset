@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/almost2.unity
+    guid: f82c0f72f15c3b0468f64ae2ce95c396
   m_configObjects: {}

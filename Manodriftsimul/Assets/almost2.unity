@@ -4287,8 +4287,8 @@ MonoBehaviour:
   Horizontal: 0
   Vertical: 0
   wheelRotateSpeed: 20
-  wheelSteeringAngle: 60
-  wheelAcceleration: 200
+  wheelSteeringAngle: 120
+  wheelAcceleration: 350
   wheelMaxSpeed: 1500
   RB: {fileID: 1094377340}
 --- !u!54 &1094377340

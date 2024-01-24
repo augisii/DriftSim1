@@ -1,8 +1,5 @@
 ﻿using UnityEngine;
 using UnityEngine.Rendering;
-
-// Skidmarks controller. Put one of these in a scene somewhere. Call AddSkidMark.
-// Copyright 2017 Nition, BSD licence (see LICENCE file). http://nition.co
 public class Skidmarks : MonoBehaviour {
 	// INSPECTOR SETTINGS
 
